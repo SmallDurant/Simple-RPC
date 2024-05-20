@@ -1,0 +1,74 @@
+[
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/mprpc.dir/includes_CXX.rsp -g -o CMakeFiles\\mprpc.dir\\mprpcapplication.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\src\\mprpcapplication.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/src/mprpcapplication.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcapplication.cc.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/mprpc.dir/includes_CXX.rsp -g -o CMakeFiles\\mprpc.dir\\mprpcconfig.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\src\\mprpcconfig.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/src/mprpcconfig.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcconfig.cc.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/mprpc.dir/includes_CXX.rsp -g -o CMakeFiles\\mprpc.dir\\rpcheader.pb.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\src\\rpcheader.pb.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/src/rpcheader.pb.cc",
+  "output": "src/CMakeFiles/mprpc.dir/rpcheader.pb.cc.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/mprpc.dir/includes_CXX.rsp -g -o CMakeFiles\\mprpc.dir\\rpcprovider.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\src\\rpcprovider.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/src/rpcprovider.cc",
+  "output": "src/CMakeFiles/mprpc.dir/rpcprovider.cc.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/mprpc.dir/includes_CXX.rsp -g -o CMakeFiles\\mprpc.dir\\mprpcchannel.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\src\\mprpcchannel.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/src/mprpcchannel.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpcchannel.cc.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/mprpc.dir/includes_CXX.rsp -g -o CMakeFiles\\mprpc.dir\\mprpccontroller.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\src\\mprpccontroller.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/src/mprpccontroller.cc",
+  "output": "src/CMakeFiles/mprpc.dir/mprpccontroller.cc.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/mprpc.dir/includes_CXX.rsp -g -o CMakeFiles\\mprpc.dir\\logger.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\src\\logger.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/src/logger.cc",
+  "output": "src/CMakeFiles/mprpc.dir/logger.cc.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/src",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/mprpc.dir/includes_CXX.rsp -g -o CMakeFiles\\mprpc.dir\\zookeeperutil.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\src\\zookeeperutil.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/src/zookeeperutil.cc",
+  "output": "src/CMakeFiles/mprpc.dir/zookeeperutil.cc.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/example/callee",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/provider.dir/includes_CXX.rsp -g -o CMakeFiles\\provider.dir\\friendservice.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\example\\callee\\friendservice.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/example/callee/friendservice.cc",
+  "output": "example/callee/CMakeFiles/provider.dir/friendservice.cc.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/example/callee",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/provider.dir/includes_CXX.rsp -g -o CMakeFiles\\provider.dir\\__\\friend.pb.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\example\\friend.pb.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/example/friend.pb.cc",
+  "output": "example/callee/CMakeFiles/provider.dir/__/friend.pb.cc.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/example/caller",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/consumer.dir/includes_CXX.rsp -g -o CMakeFiles\\consumer.dir\\callfriendservice.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\example\\caller\\callfriendservice.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/example/caller/callfriendservice.cc",
+  "output": "example/caller/CMakeFiles/consumer.dir/callfriendservice.cc.obj"
+},
+{
+  "directory": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/build/example/caller",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/consumer.dir/includes_CXX.rsp -g -o CMakeFiles\\consumer.dir\\__\\friend.pb.cc.obj -c C:\\Users\\CHL\\Desktop\\代码随想录资料\\C++实现分布式网络通信框架项目资料\\mprpc项目代码\\mprpc\\example\\friend.pb.cc",
+  "file": "C:/Users/CHL/Desktop/代码随想录资料/C++实现分布式网络通信框架项目资料/mprpc项目代码/mprpc/example/friend.pb.cc",
+  "output": "example/caller/CMakeFiles/consumer.dir/__/friend.pb.cc.obj"
+}
+]
